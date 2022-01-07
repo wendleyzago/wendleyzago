@@ -4,7 +4,6 @@
 - 🔭 Sem trabalho no momento :c 
 - 🌱 Estudando JavaScript, CSS e HTML5 
 - 📫 Contate-me no email: wendleyzago@hotmail.com
-- ⚡ Fun fact: ...
 
 <div align="center">
   <a href="https://github.com/wendleyzago">
